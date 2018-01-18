@@ -1,9 +1,6 @@
 # gallery-react
 A minimal react app to show image cards
 
-Wedding Venues Proof of Concept
-===============================
-
 Powered by:
 
 - [create-react-app](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md) (react project start kit)
