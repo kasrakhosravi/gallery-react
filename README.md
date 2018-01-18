@@ -27,15 +27,3 @@ To run the development server - run the following in the command line from the a
 ```
 yarn start
 ```
-
-__How to deploy to production:__
-
-To deploy the app to production (github pages) - run the following in the command line from the application folder:
-
-```
-yarn run deploy
-```
-
-__Live Preview:__
-
-[FindWeddingVenue](http://eiriklv.github.io/wedding-venues-poc)
