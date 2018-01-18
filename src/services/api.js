@@ -17,7 +17,7 @@ const request = axios.create({
 });
 
 /**
- * Get all venues
+ * Get all items
  */
 export function getItems() {
   return request.get('/')
